@@ -69,6 +69,9 @@ The goal of this BI project is to explore:
 
 Add an image in `/images` then reference here:<img width="1350" height="736" alt="Australia&#39;s Wine Insight Dashboard" src="https://github.com/user-attachments/assets/795941bc-3f98-4d9b-ac5c-9b72708cc107" />
 
+---
 
+## 🔗 Tableau Public Link (Optional)
 
-
+If published, add your link here:  
+👉 *<(https://public.tableau.com/views/FiltersandCalculationsLectureexamples/AustraliasWineInsightDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)>*
